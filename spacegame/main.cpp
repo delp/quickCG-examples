@@ -70,7 +70,7 @@ gravity_vector get_gravity_vector(particle left,
 int main(int argc, char* argv[])
 {
     //Setup the screen
-    screen(256, 256, 0, "Gravity Dicks");
+    screen(256, 256, 0, "Gravity boyyyys");
 
     //init all the game objects
     particle ship;
